@@ -59,7 +59,7 @@ Rscript scripts/render_gallery.R
 直接阅读 [SKILL.md](SKILL.md) 与 [examples.md](examples.md)，把其中的 `theme(...)` 和 `labs(caption=...)` 拷进自己的 R 项目即可。
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=yuanlz0825/nature-skills&type=Date)](https://star-history.com/#qiangqiang2/scientific-figure-spec&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=qiangqiang2/scientific-figure-spe&type=Date)](https://star-history.com/#qiangqiang2/scientific-figure-spec&Date)
 
 
 ## 版本
