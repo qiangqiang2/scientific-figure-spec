@@ -58,9 +58,9 @@ Rscript scripts/render_gallery.R
 
 直接阅读 [SKILL.md](SKILL.md) 与 [examples.md](examples.md)，把其中的 `theme(...)` 和 `labs(caption=...)` 拷进自己的 R 项目即可。
 
-## 与本仓库（DL-mouse）的关系
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=yuanlz0825/nature-skills&type=Date)](https://star-history.com/#qiangqiang2/scientific-figure-spec&Date)
 
-本 Skill 的规则与 `paper_figures/R/export_paper_figures_out.R` 中的 `theme_fig02_dl_raw_panel()`、`plot_fig02_training_process_raw()` 对齐；改 R 出图时也应遵守 `SKILL.md` 中的 **panel.border / plot.background / caption** 约定。
 
 ## 版本
 
